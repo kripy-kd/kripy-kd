@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Durudkar</h1>
 <h3 align="center">A passionate Backend & frontend developer from India</h3>
 
-- 🔭 I’m currently working in **MITNEXT SOFTWARE & SERVICES PVT. LTD. NAGPUR**
+- 🔭 I’m currently working in **PURVISH INFOTECH**
 
 - 🌱 I’m currently working in **Django Restframework for create functionality**
 
