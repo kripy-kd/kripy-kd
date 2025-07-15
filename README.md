@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working in **PURVISH INFOTECH**
 
-- 🌱 I’m currently working in **Django Restframework for create functionality**
-
-- 📝 Involve in Database creation **MYSQL WORKBENCH**
+- 🌱 I’m currently working on **FLUTTER APP**
 
 - 📫 How to reach me **kunaldu07@gmail.com**
 
